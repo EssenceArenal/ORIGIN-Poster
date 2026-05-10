@@ -259,3 +259,35 @@
   padding: 12px 36px;
   margin: 16px 0;
 }
+@media (max-width: 600px) {
+  .gold-title {
+    font-size: 52px;
+    letter-spacing: 8px;
+  }
+
+  .poster-content {
+    padding: 40px 24px 40px;
+  }
+
+  .gold-date {
+    font-size: 11px;
+    letter-spacing: 3px;
+  }
+
+  .gold-tagline {
+    font-size: 12px;
+    letter-spacing: 2px;
+  }
+
+  .subtitle-text {
+    font-size: 13px;
+  }
+
+  .diamond-div {
+    width: 220px;
+  }
+
+  .gold-line {
+    width: 160px;
+  }
+}
